@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ai-image-generator/static/css/main.dd4bd824.css",
+    "main.js": "/Ai-image-generator/static/js/main.fd976b16.js",
+    "static/js/453.4ab7ef24.chunk.js": "/Ai-image-generator/static/js/453.4ab7ef24.chunk.js",
+    "static/media/default-img.jpg": "/Ai-image-generator/static/media/default-img.28f26d0042e4ba0edf24.jpg",
+    "index.html": "/Ai-image-generator/index.html",
+    "main.dd4bd824.css.map": "/Ai-image-generator/static/css/main.dd4bd824.css.map",
+    "main.fd976b16.js.map": "/Ai-image-generator/static/js/main.fd976b16.js.map",
+    "453.4ab7ef24.chunk.js.map": "/Ai-image-generator/static/js/453.4ab7ef24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd4bd824.css",
+    "static/js/main.fd976b16.js"
+  ]
+}
